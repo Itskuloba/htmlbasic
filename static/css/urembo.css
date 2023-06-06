@@ -1,0 +1,67 @@
+ul{
+    list-style-type: none;
+    background-color: bisque;
+    overflow: hidden;
+
+}
+li{
+    float: left;
+}
+li,a{
+    padding: 15px;
+    display: block;
+    color: white;
+    font-family: Gidugu;
+    font-size: 18px;
+}  li a:hover{
+    background: black;
+}
+   .fruits{
+       background-color: #04eeb7;
+       border: 2px dotted black;
+       margin: 20px;
+       padding: 20px;
+       text-align: center;
+       font-family: Nakula;
+
+   }
+   .cars{
+       background-color: #fcff97;
+       border: 5px solid black;
+       margin: 20px;
+       padding: 20px;
+       text-align: center;
+       font-family: Dialog;
+   }
+   .FRUITS{
+       background-color: #d0ffb4;
+       border: 3px solid black;
+       margin: 10px;
+       padding: 20px;
+       text-align: center;
+       font-family: Jamrul;
+   }
+   #gari{
+       border: 2px solid black;
+       background-color: cornflowerblue;
+       margin: 20px;
+       padding: 20px;
+       text-align: center;
+       font-family: Inconsolata;
+   }
+   #matunda{
+       background-color: #4a6c39;
+       border: 3px dotted black;
+       margin: 20px;
+       padding: 20px;
+       text-align: center;
+       font-family: Ani;
+   }
+   #vitabu{
+       background-color: #d0ffb4;
+       border: 2px solid black;
+       margin: 20px;
+       padding: 20px;
+       text-align: center;
+       font-family: cursive;
+   }
